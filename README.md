@@ -1,2 +1,2 @@
 Android kiosk mode is a security feature that locks a device to a single app or a limited set of applications, preventing users from accessing other functions. It is widely used in businesses where MDM Android kiosk mode allows administrators to remotely manage and control devices. This setup is commonly implemented using kiosk mode Android or Android MDM kiosk mode solutions.
-<a href="[https://www.google.com/search?q=android+kiosk+mode](https://www.vantagemdm.com/android-kiosk-mode/)">android kiosk mode</a>
+<a href="https://www.vantagemdm.com/android-kiosk-mode/">android kiosk mode</a>
